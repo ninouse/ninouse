@@ -12,19 +12,32 @@
 
 ---
 
-## 🚀 Featured Repositories
+## 🚀 Featured Repository
 
-| Repository | Description |
-| --- | --- |
-| 🧩 [cloud-mail](https://github.com/ninouse/cloud-mail) | A JavaScript project focused on cloud-based mail. |
-| 🎨 [creative-portfolio](https://github.com/ninouse/creative-portfolio) | A creative personal portfolio with a dark cosmic theme, built with React, Vite, Node.js, and Framer Motion. |
-| ✨ [baby-name-generator](https://github.com/ninouse/baby-name-generator) | An AI-powered baby name generator. |
+🎨 [creative-portfolio](https://github.com/ninouse/creative-portfolio) — A creative personal portfolio with a dark cosmic theme, built with React, Vite, Node.js, and Framer Motion.
 
 ## 👨‍💻 About Me
 
 I'm a frontend and full-stack developer with experience building **large-scale, data-intensive products** and the engineering workflows behind them. My work spans modern React and TypeScript interfaces, Python and Java services, GraphQL APIs, knowledge graph and data lineage systems, and AI-powered developer tooling.
 
 I enjoy turning complex requirements into clear, reliable, and maintainable products. I care about the full journey—from interface design and data modeling to service integration, testing, documentation, and delivery.
+
+## 📦 Product Experience
+
+- **Data platform & knowledge graph** 🧠
+  Entity and relationship modeling, schema and DDL generation, GraphQL services, graph synchronization, field-level lineage, and upstream/downstream impact analysis.
+
+- **Profile & configuration platform** 🧩
+  Tag and audience configuration, event and rule management, dashboards, scheduled tasks, menu structures, and system configuration workflows.
+
+- **AI & decision platform** 🤖
+  Feature management, data preparation, model training and serving workflows, plus config-driven decision engines for intelligent recommendations.
+
+- **Developer productivity tooling** 🛠️
+  Plugin ecosystems, AI agent workflows, MCP integrations, database management, design and document generation, and reusable React/Ant/Vite and Spring Boot development tools.
+
+- **Frontend engineering** 🎨
+  Data visualization, graph editing, complex forms, internationalization, and enterprise UI patterns built with React and TypeScript.
 
 ## 🧰 Tech Stack
 
