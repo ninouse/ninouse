@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://opengraph.githubassets.com/1/ninouse/creative-portfolio" alt="creative-portfolio preview" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Building%20useful%20digital%20products&fontSize=34&fontColor=ffffff&animation=fadeIn" alt="Profile banner" />
   <img src="https://github.com/ninouse.png?size=180" width="140" height="140" alt="Nino's avatar" />
   <h1>Hi, I'm Nino 👋</h1>
   <p><strong>Frontend & Full-Stack Developer · Enterprise Data Platforms · AI Developer Tools</strong></p>
